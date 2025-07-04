@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo docker run -itd --name node-demo -p 3000:3000 lidorlg/demo-devops-node:latest
